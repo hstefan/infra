@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+*.tfstate
+terraform/default.auto.tfvars
+terraform/terraform-plugin-proxmox.log
